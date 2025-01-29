@@ -102,6 +102,7 @@ The dataset contains daily bike rental records including:
 ```
 day.csv
 bike_sharing_analysis.ipynb
+Regression+Subjective+Questions.pdf
 README.md
 requirements.txt
 ```
